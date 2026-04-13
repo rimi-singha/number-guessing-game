@@ -27,6 +27,6 @@ int main()
         else
             printf("congrats!!🎉\n");
     } while (guessed_num!= random_num);
-    printf("you guessed %d times", number_of_guessing);
+    printf("you guessed %d times",number_of_guessing);
     return 0;
 }
