@@ -5,7 +5,6 @@
 int main()
 {
     int random_num;
-
     srand(time(0)); // Seed random generator
 
     random_num = rand() % 100 + 1; // Random number 1 to 100
